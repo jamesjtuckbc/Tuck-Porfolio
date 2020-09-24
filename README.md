@@ -3,7 +3,7 @@
 ### Pages
 
 ####index.html
-The index.html is the homepage and displays infoprmation about me and a recent picture.
+The index.html is the homepage and displays information about me and a recent picture.
 ![about me](assets/images/index.png)
 ####contact.html
 The contact page includes a way to send me you contact information with a message if desired.
