@@ -1,5 +1,7 @@
 # Tuck-Porfolio
 
+#####[Link to webpage](https://jamesjtuckbc.github.io/Tuck-Porfolio/)
+#####[Link to repo](https://github.com/jamesjtuckbc/Tuck-Porfolio)
 ### Pages
 
 ####index.html

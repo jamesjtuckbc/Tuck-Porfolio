@@ -1,17 +1,20 @@
 html {
+  /* both of these were added for the footer to work as expected */
   position: relative;
   min-height: 100%;
 }
+
 body {
-  margin-bottom: 60px; /* Margin bottom by footer height */
-  background-image: url("../images/y-so-serious-white.png");
+  margin-bottom: 60px; /* added for footer */
+  background-image: url("../images/y-so-serious-white.png"); /* background image for the pages */
 }
 
 main {
-  overflow: hidden;
+  overflow: hidden; /* added for footer to work as expected */
 }
 
 .footer {
+  /* This class is so the footer looks and acts correctly */
   position: absolute;
   bottom: 0;
   width: 100%;
